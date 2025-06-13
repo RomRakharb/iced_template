@@ -2,6 +2,8 @@
 
 ## Usage
 
+If using `nix`:
+
 ``` sh
 nix develop
 ```
