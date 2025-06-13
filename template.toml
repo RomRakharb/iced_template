@@ -1,0 +1,5 @@
+[template]
+name = "iced-template"
+description = "A template for starting GUI apps with the iced"
+version = "0.1.0"
+authors = ["Rom Rakharb <romr.dev@proton.me>"]
