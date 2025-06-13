@@ -2,8 +2,12 @@
 
 ## Usage
 
-If using `nix`:
+```
+  cargo generate --git https://github.com/RomRakharb/iced_template.git
+```
+
+## Using Nix
 
 ``` sh
-nix develop
+  nix develop
 ```
